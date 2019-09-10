@@ -1,6 +1,6 @@
 {
   "version": "6.5.4",
-  "name": "@curefit/react-native-svg",
+  "name": "react-native-svg",
   "description": "SVG library for react-native",
   "repository": {
     "type": "git",
