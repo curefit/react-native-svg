@@ -5,7 +5,7 @@
   "homepage": "https://github.com/react-native-community/react-native-svg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-svg"
+    "url": "git+https://github.com/curefit/react-native-svg.git"
   },
   "license": "MIT",
   "main": "lib/commonjs/index.js",
